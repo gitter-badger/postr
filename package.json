@@ -37,10 +37,6 @@
   "scripts": {
     "test": "grunt"
   },
-  "bin": {
-    "postr": "cli.js"
-  },
-  "preferGlobal": "true",
   "dependencies": {
     "bluebird": "^2.3.11"
   }
