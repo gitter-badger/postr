@@ -1,0 +1,47 @@
+{
+  "name": "postr",
+  "version": "0.0.0",
+  "main": "lib/postr.js",
+  "description": "Social media posting module",
+  "homepage": "extrovert.io",
+  "bugs": "https://github.com/Kuiche/postr/issues",
+  "author": {
+    "name": "Samuel Trangmar-Keates",
+    "email": "samtkeates@gmail.com",
+    "url": "extrovert.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kuiche/postr"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "postr",
+    "social media",
+    " post",
+    " posts"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-cli": "^1.9.0",
+    "jshint-stylish": "^0.2.0",
+    "load-grunt-tasks": "^0.4.0",
+    "sinon": "^1.12.1",
+    "time-grunt": "^0.3.1"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "bin": {
+    "postr": "cli.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "bluebird": "^2.3.11"
+  }
+}
