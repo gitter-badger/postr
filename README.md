@@ -1,5 +1,7 @@
 #  [![Build Status](https://secure.travis-ci.org/Kuiche/postr.png?branch=master)](http://travis-ci.org/Kuiche/postr)
 
+[![Join the chat at https://gitter.im/kuiche/postr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kuiche/postr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Social media posting module
 
 
